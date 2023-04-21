@@ -19,6 +19,7 @@ npm install
 ```
 
 #### Manual setup commands
+> Note: Follow `coding garden` step-by-step guide for manual setup of project **(recommended)**. Link is given in reference.
 
 Initialize a vite-react project
 ```sh
